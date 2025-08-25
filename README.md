@@ -7,3 +7,10 @@
 - Persistencia de datos en **MySQL**.
 - Arquitectura en capas con principios **SOLID**.
 - Interfaz simple y orientada a la usabilidad.
+
+## Tecnologías utilizadas
+- Lenguaje: Java  
+- Base de datos: MySQL  
+- Frameworks/Librerías: JDBC (o Hibernate si usaste)  
+- Paradigma:** Programación orientada a objetos  
+- Control de versiones: Git  
